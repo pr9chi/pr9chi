@@ -1,9 +1,9 @@
 # 💫 About Me:
-👩‍💻 CSE (AI & ML) student who enjoys building projects and learning by doing
-🧠 Currently exploring Machine Learning and Computer Vision
-🐍 Writing lots of Python (and fixing lots of bugs)
-🚀 Hoping to contribute to open source and participate in more hackathons
-✨ Always curious about how technology solves real-world problems
+👩‍💻 CSE (AI & ML) student who enjoys building projects and learning by doing<br>
+🧠 Currently exploring Machine Learning and Computer Vision<br>
+🐍 Writing lots of Python (and fixing lots of bugs)<br>
+🚀 Hoping to contribute to open source and participate in more hackathons<br>
+✨ Always curious about how technology solves real-world problems<br>
 
 
 ## 🌐 Socials:
