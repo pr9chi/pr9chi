@@ -6,7 +6,7 @@
 ✨ Always curious about how technology solves real-world problems<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prachithapa) 
 
 # 💻 Tech Stack:
